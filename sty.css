@@ -51,7 +51,8 @@ nav {
     padding: 100px;
     justify-content: center;
     margin: 0;
- 
+    flex-basis: calc(33.33% - 20px);
+    text-align: center;
 }
 .princingcof{
     background-image: url('cofmenu.jpg');
